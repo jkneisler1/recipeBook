@@ -28,18 +28,4 @@ body {
 .wrapper li {
 	text-align: left;
 }
-.crabCake {
-	background-image: url("../images/CrabCake.jpg")
-}
-.meatLoaf {
-	background-image: url("../images/Meatloaf.jpg")
-}
-.applePie {
-	background-image: url("../images/ApplePie.jpg")
-}
-.chickenNoodle {
-	background-image: url("../images/ChickenSoup.jpg")
-}
-.brownie {
-	background-image: url("../images/CrabCake.jpg")
-}
+
